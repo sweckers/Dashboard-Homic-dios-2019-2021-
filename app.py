@@ -8,7 +8,8 @@ st.set_page_config(
 st.title('Dashboard de Dados')
 st.markdown(
     'Esse Dashboard foi feito por: Marcos Mariano 2CDD01, '
-    'Thiago Daparé 2CDD01, Matheus Costa Queiroz 2CDD01'
+    'Thiago Daparé 2CDD01, Matheus Costa Queiroz 2CDD01. 
+    \nOrientado por Prof. Felipe Garbin'
 )
 arquivo = "dados.csv"
 if arquivo is not None:
